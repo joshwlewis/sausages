@@ -4,4 +4,6 @@
 
 If you like sausages, this might be the API for you!
 
-woo sausages
+Woo! Sausages are good! For realz!
+
+Sausages are like politics; if you enjoy them, don't learn how they are made.
