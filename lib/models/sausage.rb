@@ -1,7 +1,7 @@
 SAUSAGE_DATA = [
   { name: "Andouille", rating: 8 },
   { name: "Bratwurst", rating: 9 },
-  { name: "Chorizo",   rating: 10 },
+  { name: "Garlic",   rating: 10 },
   { name: "Hot Dog",   rating: 2 },
   { name: "Smoked",    rating: 5 }
 ]
