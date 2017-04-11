@@ -9,6 +9,12 @@
       "url": "heroku/ruby"
     }
   ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "Hobby"
+    }
+  },
   "scripts": {
     "test-setup": "bundle install --with test",
     "test": "bundle exec rake"
