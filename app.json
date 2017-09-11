@@ -2,8 +2,7 @@
   "name": "sausages",
   "description": "An API for all your favorite sausages",
   "env": {
-    "LANG": "en_US.UTF-8",
-    "MY_SUPER_SECRET": {"required": true}
+    "LANG": "en_US.UTF-8"
   },
   "buildpacks": [
     {
